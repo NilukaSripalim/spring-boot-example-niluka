@@ -1,13 +1,13 @@
-package com.example.niluka.demospringboot;
+package com.example.niluka.jpa.h2.spring.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoSpringBootApplication {
+public class H2SpringBootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoSpringBootApplication.class, args);
+		SpringApplication.run(H2SpringBootApplication.class, args);
 	}
 
 }

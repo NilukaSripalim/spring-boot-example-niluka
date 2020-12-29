@@ -1,4 +1,4 @@
-package com.example.niluka.demospringboot;
+package com.example.niluka.jpa.h2.spring.boot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
